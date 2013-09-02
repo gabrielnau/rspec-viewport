@@ -1,4 +1,4 @@
-# Rspec::Viewport (wip)
+# RSpec::Viewport (wip)
 
 Integration test helper for RSpec that nest examples in a given viewport
 transparently. When working on a site that responds to multiple devices for
